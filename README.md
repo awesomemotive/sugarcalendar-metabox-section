@@ -2,6 +2,8 @@
 
 A simple example of how to create a metabox section.
 
+![What to Expect](https://user-images.githubusercontent.com/88951/71228959-7b335300-22a9-11ea-9a5a-41305c54bf33.png)
+
 This includes:
 
 * Adding the section
