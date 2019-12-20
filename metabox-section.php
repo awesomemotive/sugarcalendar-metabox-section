@@ -31,7 +31,7 @@ function add_section( $box = false ) {
 	$box->add_section( array(
 		'id'       => 'things',
 		'label'    => 'Things',
-		'icon'     => 'randomize',
+		'icon'     => 'album',
 		'order'    => 22, // Experiment with this
 		'callback' => __NAMESPACE__ . '\\box_contents'
 	) );
